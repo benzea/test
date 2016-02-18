@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3465a4",
+        "marker-size": "medium",
+        "marker-symbol": "rail-light",
+        "title": "Durlacher Tor/KIT-Campus Süd",
+        "description": "Closest tram stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.414105772972107,
+          49.009156371329176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#73d216",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "title": "Main Venue",
+        "description": "This is the venue for the core days"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.41702938079834,
+          49.009557504687095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3465a4",
+        "marker-size": "medium",
+        "marker-symbol": "rail",
+        "title": "Karlsruhe Main Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.400335311889648,
+          48.99409393848526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#73d216",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "title": "Department of Informatics",
+        "description": "Venue for Workshops and BoFs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.419411182403564,
+          49.01392050088012
+        ]
+      }
+    }
+  ]
+}
