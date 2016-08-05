@@ -25,7 +25,7 @@
         "marker-size": "medium",
         "marker-symbol": "building",
         "title": "Main Venue",
-        "description": "This is the venue for the core days"
+        "description": "Venue for the core days"
       },
       "geometry": {
         "type": "Point",
@@ -65,6 +65,70 @@
         "coordinates": [
           8.419411182403564,
           49.01392050088012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff9a00",
+        "marker-size": "medium",
+        "marker-symbol": "lodging",
+        "title": "Hotel Achat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.410114645957947,
+          49.00548092445134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0092ff",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "title": "Thursday BBQ at AKK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.415312767028809,
+          49.01107755966365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00b6ff",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "title": "Sunday: Centricular Dinner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.427937924861908,
+          49.01299163695282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00baff",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "title": "Sat: Picnic and Football"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.428058624267578,
+          49.003131944841954
         ]
       }
     }
